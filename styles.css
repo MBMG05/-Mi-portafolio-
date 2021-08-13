@@ -1,0 +1,211 @@
+
+/**--HTML SETTINGS--**/
+body{
+    background-color: #F0EBF8;
+    height: 100vh;
+}
+
+::selection{ 
+    background-color: #d4d7f385;
+    color: rgb(255, 255, 255);
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/**--TOP TITLE--**/
+
+.top-titile{
+    padding-left: 2%;
+    padding-top: 1%;
+    background-color: #4656E9;
+    width: auto;
+    overflow: hidden;
+}
+
+.div-name-redes p{
+    font-size: 120%;
+    color: #F0EBF8;
+    font-family: 'Poppins', sans-serif;
+}
+.top-titile_1st{
+    color: #F0EBF8;
+    letter-spacing: 1px;
+    font-family: 'Poppins', sans-serif;
+    float: left;
+}
+
+.top-titile_1st::selection{
+    background-color: #d4d7f385;
+    color: rgb(255, 255, 255);
+}
+
+.top-titile_icon{
+    float: left;
+    font-size: 300%;
+    color: #F0EBF8;
+    margin-left: 1%;
+    transform: rotate(90deg);
+}
+
+/**************/
+
+
+/**--REDES--**/
+.redes-font{
+    font-family: 'Poppins', sans-serif;
+}
+.ig-logo{
+    margin: 2%;
+    color: #4656E9;
+    font-size: 200%;
+    font-family: 'Poppins', sans-serif;
+    width: max-content;
+    display: inline-block;
+    text-align: center;
+}
+
+.github-logo{
+    margin: 2%;
+    color: #4656E9;
+    font-size: 200%;
+    font-family: 'Poppins', sans-serif;
+    width: max-content;
+    display: inline-block;
+    text-align: center;
+}
+
+.wh-logo{
+    margin: 2%;
+    color: #4656E9;
+    font-size: 200%;
+    font-family: 'Poppins', sans-serif;
+    width: max-content;
+    display: inline-block;
+    text-align: center;
+
+}
+
+/*******/
+
+
+.div-name-redes{
+    padding-left: 2%;
+    padding-top: 1%;
+    background-color: #4656E9;
+    width: auto;
+    overflow: hidden;
+    margin-left:auto ;
+    margin-right: auto;
+    width: 92%;
+    padding-bottom: 1%;
+}
+
+.content-1{
+    margin: 2%;
+    font-family: 'Poppins', sans-serif;
+    box-shadow: 8px 8px 0px #6e7cf3;
+    background: #4656E9;
+    width:max-content;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 2%;
+    color: #F0EBF8;
+    transition-property: box-shadow;
+    transition-duration: 3s;
+}
+
+
+.content-2{
+    font-family: 'Poppins', sans-serif;
+    color: #F0EBF8;
+    width: 90%;
+    background-color: #4656E9;
+    padding: 2%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content-2 p{
+    font-size: 120%;
+}
+
+.content-3{
+    font-family: 'Poppins', sans-serif;
+    color: #F0EBF8;
+    width: 90%;
+    background-color: #4656E9;
+    padding: 2%;
+    margin-left: 3%;
+    float: left;
+    margin-bottom: 2%;
+    overflow: hidden;
+}
+
+.content-3 p{
+    font-size: 120%;
+}
+
+.content-4{
+    font-family: 'Poppins', sans-serif;
+    color: #F0EBF8;
+    width: 90%;
+    background-color: #4656E9;
+    padding: 2%;
+    margin: 3%;
+    float: right;
+    margin-bottom: 2%;
+    overflow: hidden;
+    margin-top: .5%;
+}
+
+.content-4 p{
+    font-size: 120%;
+}
+
+.i-content-4{
+    font-size: 90%;
+    color: #9fa8f5;
+}
+
+.hr-4{
+    border: none;
+    background-color: #F0EBF8;
+    height: 2px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+
+.github-logo-2{
+    font-size: 220%;
+    width: max-content;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
+
+.ig-logo-2{
+    font-size: 220%;
+    width: max-content;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
+
+.content-5{
+    font-family: 'Poppins', sans-serif;
+    color: #4656E9;
+    width: 90%;
+    background-color: #F0EBF8;
+    padding: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    float: left;
+    margin: 3%;
+    margin-top: .5%;
+    border: 2px solid #4656E9;
+    text-align: center;
+}
